@@ -19,6 +19,7 @@ namespace Tyuiu.VikolAS.Sprint3.Task0.V18
             Console.WriteLine("* Написать программу используя цикл for, которая вычисляет произведение ряда по формуле, при X=1 *");
             Console.WriteLine("*****************************************    *");
 
+
             int x = 1;
             int start = 1;
             int stop = 6;

@@ -14,6 +14,7 @@ namespace Tyuyu.VikolAS.Sprint3.Task0.V18.Lib
             }
 
             return Math.Round(p, 3);
+
         }
     }
 }
