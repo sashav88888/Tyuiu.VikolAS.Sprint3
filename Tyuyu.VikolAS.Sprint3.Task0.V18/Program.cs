@@ -1,4 +1,4 @@
-﻿using Tyuyu.VikolAS.Sprint3.Task0.V18.Lib;
+﻿using Tyuiu.VikolAS.Sprint3.Task0.V18.Lib;
 namespace Tyuiu.VikolAS.Sprint3.Task0.V18
 {
     class Program

@@ -1,5 +1,5 @@
-﻿using Tyuyu.VikolAS.Sprint3.Task0.V18.Lib;
-namespace Tyuyu.VikolAS.Sprint3.Task0.V18.Test
+﻿using Tyuiu.VikolAS.Sprint3.Task0.V18.Lib;
+namespace Tyuiu.VikolAS.Sprint3.Task0.V18.Test
 {
     [TestClass]
     public sealed class DataServiceTest

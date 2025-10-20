@@ -5,11 +5,11 @@ VisualStudioVersion = 17.14.36511.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuyu.VikolAS.Sprint3.Task0.V18", "Tyuyu.VikolAS.Sprint3.Task0.V18\Tyuyu.VikolAS.Sprint3.Task0.V18.csproj", "{C6A1EA46-CFE6-4965-8E65-CF2F44E36DED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VikolAS.Sprint3.Task0.V18", "Tyuyu.VikolAS.Sprint3.Task0.V18\Tyuiu.VikolAS.Sprint3.Task0.V18.csproj", "{C6A1EA46-CFE6-4965-8E65-CF2F44E36DED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuyu.VikolAS.Sprint3.Task0.V18.Test", "Tyuyu.VikolAS.Sprint3.Task0.V18.Test\Tyuyu.VikolAS.Sprint3.Task0.V18.Test.csproj", "{A9522814-DFCE-43C7-84B4-389598B4C65C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VikolAS.Sprint3.Task0.V18.Test", "Tyuyu.VikolAS.Sprint3.Task0.V18.Test\Tyuiu.VikolAS.Sprint3.Task0.V18.Test.csproj", "{A9522814-DFCE-43C7-84B4-389598B4C65C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuyu.VikolAS.Sprint3.Task0.V18.Lib", "Tyuyu.VikolAS.Sprint3.Task0.V18.Lib\Tyuyu.VikolAS.Sprint3.Task0.V18.Lib.csproj", "{39F3EB7F-B204-4DD8-9654-956FA0BC6F52}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VikolAS.Sprint3.Task0.V18.Lib", "Tyuyu.VikolAS.Sprint3.Task0.V18.Lib\Tyuiu.VikolAS.Sprint3.Task0.V18.Lib.csproj", "{39F3EB7F-B204-4DD8-9654-956FA0BC6F52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
