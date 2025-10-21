@@ -20,7 +20,7 @@ namespace Tyuiu.VikolAS.Sprint3.Task4.V1.Lib
                 sum += y;
             }
 
-            return sum;
+            return Math.Round(sum, 3); // округляем до 3 знаков после запятой
         }
     }
 }

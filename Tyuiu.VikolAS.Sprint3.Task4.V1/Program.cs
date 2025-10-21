@@ -23,6 +23,7 @@ namespace Tyuiu.VikolAS.Sprint3.Task4.V1
             Console.WriteLine("************************************************");
 
             double sum = ds.Calculate(-5, 5);
+
             Console.WriteLine($"Сумма значений функции: {sum}");
 
             Console.ReadKey();
