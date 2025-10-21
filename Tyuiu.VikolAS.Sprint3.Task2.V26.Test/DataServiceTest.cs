@@ -26,7 +26,7 @@ namespace Tyuiu.VikolAS.Sprint3.Task2.V26.Test
             }
             while (i <= stopValue);
 
-            expected = Math.Round(expected, 6);
+            expected = Math.Round(expected, 3);
 
             double result = ds.GetMultiplySeries(x, startValue, stopValue);
 

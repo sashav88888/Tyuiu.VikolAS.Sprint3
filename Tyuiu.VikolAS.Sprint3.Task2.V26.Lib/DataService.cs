@@ -17,7 +17,7 @@ namespace Tyuiu.VikolAS.Sprint3.Task2.V26.Lib
             }
             while (i <= stopValue);
 
-            return Math.Round(p, 6);
+            return Math.Round(p, 3);
         }
     }
 }
