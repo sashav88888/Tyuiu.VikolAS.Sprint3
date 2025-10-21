@@ -13,10 +13,10 @@ namespace Tyuiu.VikolAS.Sprint3.Task7.V9.Lib
             for (int i = 0; i < length; i++)
             {
                 double x = startValue + i;
-                double cosX = Math.Cos(x);
+                double denominator = Math.Cos(x) - 2 * x;
 
                 // Проверка на деление на ноль
-                double fx = (cosX != 0) ? (2 * x - 3) / cosX - 2 * x + 5 * x - Math.Sin(x) : 0;
+                double fx = (denominator != 0) ? (2 * x - 3) / denominator + 5 * x - Math.Sin(x) : 0;
 
                 results[i] = Math.Round(fx, 2);
             }

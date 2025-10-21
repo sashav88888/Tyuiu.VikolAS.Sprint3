@@ -20,6 +20,7 @@ namespace Tyuiu.VikolAS.Sprint3.Task7.V9
             Console.WriteLine();
 
             int start = -5;
+
             int end = 5;
             double[] results = ds.GetMassFunction(start, end);
 

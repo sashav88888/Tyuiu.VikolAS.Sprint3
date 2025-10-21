@@ -22,6 +22,7 @@ namespace Tyuiu.VikolAS.Sprint3.Task7.V9.Test
                 Assert.IsFalse(Double.IsNaN(val));
             }
 
+
             // Пример проверки конкретного значения
             Assert.AreEqual(Math.Round((2 * (-5) - 3) / Math.Cos(-5) - 2 * (-5) + 5 * (-5) - Math.Sin(-5), 2), result[0]);
         }
