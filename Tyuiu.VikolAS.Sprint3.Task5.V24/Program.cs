@@ -21,6 +21,7 @@ namespace Tyuiu.VikolAS.Sprint3.Task5.V24
             Console.WriteLine("* при Х=2                                     *");
             Console.WriteLine("************************************************");
 
+
             int x = 2;
             double result = ds.GetSumSumSeries(x, 1, 1, 3, 12);
             Console.WriteLine($"Результат вычисления серии: {result:F6}");

@@ -17,7 +17,8 @@ namespace Tyuiu.VikolAS.Sprint3.Task5.V24.Lib
                 }
             }
 
-            return sum;
+            // Округляем до 3-го знака после запятой
+            return Math.Round(sum, 3);
         }
     }
 }

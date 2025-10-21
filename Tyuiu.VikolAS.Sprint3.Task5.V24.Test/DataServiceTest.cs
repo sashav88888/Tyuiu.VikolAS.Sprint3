@@ -16,6 +16,7 @@ namespace Tyuiu.VikolAS.Sprint3.Task5.V24.Test
             double precise = 0;
             for (int i = 1; i <= 3; i++)
             {
+
                 for (int k = 1; k <= 12; k++)
                 {
                     precise += (Math.Pow(x, k) + 2) * Math.Sin(k);
