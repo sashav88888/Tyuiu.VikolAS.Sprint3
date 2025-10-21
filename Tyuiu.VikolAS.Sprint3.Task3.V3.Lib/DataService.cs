@@ -18,7 +18,8 @@ namespace Tyuiu.VikolAS.Sprint3.Task3.V3.Lib
                 }
                 else
                 {
-                    if (currentCount > 0 && currentCount < minCount)
+                    // учитываем только группы, где символов было >= 2
+                    if (currentCount >= 2 && currentCount < minCount)
                     {
                         minCount = currentCount;
                     }
@@ -26,15 +27,17 @@ namespace Tyuiu.VikolAS.Sprint3.Task3.V3.Lib
                 }
             }
 
-            // Проверяем конец строки
-            if (currentCount > 0 && currentCount < minCount)
+            // Проверка конца строки
+            if (currentCount >= 2 && currentCount < minCount)
             {
                 minCount = currentCount;
             }
 
-            // Если вообще нет символов item
+            // Если не найдено ни одной группы подряд идущих символов
             if (minCount == int.MaxValue)
-                minCount = 0;
+            {
+                return 0;
+            }
 
             return minCount;
         }

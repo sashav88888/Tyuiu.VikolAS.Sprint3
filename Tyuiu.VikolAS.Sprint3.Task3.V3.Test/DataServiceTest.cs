@@ -15,7 +15,6 @@ namespace Tyuiu.VikolAS.Sprint3.Task3.V3.Test
             char symbol = 'f';
 
             int expected = 2;
-
             int result = ds.GetMinCharCount(str, symbol);
 
             Assert.AreEqual(expected, result);

@@ -27,6 +27,7 @@ namespace Tyuiu.VikolAS.Sprint3.Task3.V3
             string str = "cvbmzff orffgtrr dkfvfffdr";
             char symbol = 'f';
 
+
             int result = ds.GetMinCharCount(str, symbol);
 
             Console.WriteLine();
