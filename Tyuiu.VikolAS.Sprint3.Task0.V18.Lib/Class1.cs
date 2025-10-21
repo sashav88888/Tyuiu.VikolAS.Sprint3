@@ -8,6 +8,7 @@ namespace Tyuiu.VikolAS.Sprint3.Task0.V18.Lib
         double GetMultiplySeries(int value, int startValue, int stopValue);
     }
 
+
     public class DataService : ISprint3Task0V18
     {
         public double GetMultiplySeries(int value, int startValue, int stopValue)
