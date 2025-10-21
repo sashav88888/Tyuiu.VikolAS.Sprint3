@@ -1,5 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Tyuiu.VikolAS.Sprint3.Task1.V15.Lib;
+using System;
 
 namespace Tyuiu.VikolAS.Sprint3.Task1.V15.Test
 {
@@ -19,10 +20,10 @@ namespace Tyuiu.VikolAS.Sprint3.Task1.V15.Test
             int i = startValue;
             while (i <= stopValue)
             {
-                expected *= (Math.Pow(x, 2) * i);
+                expected *= (Math.Pow(x, 2) * i + 1);
                 i++;
             }
-            expected = Math.Round(expected + 1, 3);
+            expected = Math.Round(expected, 3);
 
             double result = ds.GetMultiplySeries(x, startValue, stopValue);
 

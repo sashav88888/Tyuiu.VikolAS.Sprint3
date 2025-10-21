@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Саша\\source\\repos\\Tyuiu.VikolAS.Sprint3\\Tyuiu.VikolAS.Sprint3.Task1.V15\\Tyuiu.VikolAS.Sprint3.Task1.V15.csproj": {}
+    "C:\\Users\\Саша\\source\\repos\\Tyuyu.VikolAS.Sprint3\\Tyuiu.VikolAS.Sprint3.Task1.V15\\Tyuiu.VikolAS.Sprint3.Task1.V15.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Саша\\source\\repos\\Tyuiu.VikolAS.Sprint3\\Tyuiu.VikolAS.Sprint3.Task1.V15\\Tyuiu.VikolAS.Sprint3.Task1.V15.csproj": {
+    "C:\\Users\\Саша\\source\\repos\\Tyuyu.VikolAS.Sprint3\\Tyuiu.VikolAS.Sprint3.Task1.V15.Lib\\Tyuiu.VikolAS.Sprint3.Task1.V15.Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Саша\\source\\repos\\Tyuiu.VikolAS.Sprint3\\Tyuiu.VikolAS.Sprint3.Task1.V15\\Tyuiu.VikolAS.Sprint3.Task1.V15.csproj",
-        "projectName": "Tyuiu.VikolAS.Sprint3.Task1.V15",
-        "projectPath": "C:\\Users\\Саша\\source\\repos\\Tyuiu.VikolAS.Sprint3\\Tyuiu.VikolAS.Sprint3.Task1.V15\\Tyuiu.VikolAS.Sprint3.Task1.V15.csproj",
+        "projectUniqueName": "C:\\Users\\Саша\\source\\repos\\Tyuyu.VikolAS.Sprint3\\Tyuiu.VikolAS.Sprint3.Task1.V15.Lib\\Tyuiu.VikolAS.Sprint3.Task1.V15.Lib.csproj",
+        "projectName": "Tyuiu.VikolAS.Sprint3.Task1.V15.Lib",
+        "projectPath": "C:\\Users\\Саша\\source\\repos\\Tyuyu.VikolAS.Sprint3\\Tyuiu.VikolAS.Sprint3.Task1.V15.Lib\\Tyuiu.VikolAS.Sprint3.Task1.V15.Lib.csproj",
         "packagesPath": "C:\\Users\\Саша\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Саша\\source\\repos\\Tyuiu.VikolAS.Sprint3\\Tyuiu.VikolAS.Sprint3.Task1.V15\\obj\\",
+        "outputPath": "C:\\Users\\Саша\\source\\repos\\Tyuyu.VikolAS.Sprint3\\Tyuiu.VikolAS.Sprint3.Task1.V15.Lib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,7 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Users\\Саша\\source\\repos\\Tyuyu.VikolAS.Sprint3\\Tyuiu.VikolAS.Sprint3.Task1.V15.Lib\\Tyuiu.VikolAS.Sprint3.Task1.V15.Lib.csproj": {
-                "projectPath": "C:\\Users\\Саша\\source\\repos\\Tyuyu.VikolAS.Sprint3\\Tyuiu.VikolAS.Sprint3.Task1.V15.Lib\\Tyuiu.VikolAS.Sprint3.Task1.V15.Lib.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -74,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\Саша\\source\\repos\\Tyuyu.VikolAS.Sprint3\\Tyuiu.VikolAS.Sprint3.Task1.V15.Lib\\Tyuiu.VikolAS.Sprint3.Task1.V15.Lib.csproj": {
+    "C:\\Users\\Саша\\source\\repos\\Tyuyu.VikolAS.Sprint3\\Tyuiu.VikolAS.Sprint3.Task1.V15\\Tyuiu.VikolAS.Sprint3.Task1.V15.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Саша\\source\\repos\\Tyuyu.VikolAS.Sprint3\\Tyuiu.VikolAS.Sprint3.Task1.V15.Lib\\Tyuiu.VikolAS.Sprint3.Task1.V15.Lib.csproj",
-        "projectName": "Tyuiu.VikolAS.Sprint3.Task1.V15.Lib",
-        "projectPath": "C:\\Users\\Саша\\source\\repos\\Tyuyu.VikolAS.Sprint3\\Tyuiu.VikolAS.Sprint3.Task1.V15.Lib\\Tyuiu.VikolAS.Sprint3.Task1.V15.Lib.csproj",
+        "projectUniqueName": "C:\\Users\\Саша\\source\\repos\\Tyuyu.VikolAS.Sprint3\\Tyuiu.VikolAS.Sprint3.Task1.V15\\Tyuiu.VikolAS.Sprint3.Task1.V15.csproj",
+        "projectName": "Tyuiu.VikolAS.Sprint3.Task1.V15",
+        "projectPath": "C:\\Users\\Саша\\source\\repos\\Tyuyu.VikolAS.Sprint3\\Tyuiu.VikolAS.Sprint3.Task1.V15\\Tyuiu.VikolAS.Sprint3.Task1.V15.csproj",
         "packagesPath": "C:\\Users\\Саша\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Саша\\source\\repos\\Tyuyu.VikolAS.Sprint3\\Tyuiu.VikolAS.Sprint3.Task1.V15.Lib\\obj\\",
+        "outputPath": "C:\\Users\\Саша\\source\\repos\\Tyuyu.VikolAS.Sprint3\\Tyuiu.VikolAS.Sprint3.Task1.V15\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -102,7 +98,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Саша\\source\\repos\\Tyuyu.VikolAS.Sprint3\\Tyuiu.VikolAS.Sprint3.Task1.V15.Lib\\Tyuiu.VikolAS.Sprint3.Task1.V15.Lib.csproj": {
+                "projectPath": "C:\\Users\\Саша\\source\\repos\\Tyuyu.VikolAS.Sprint3\\Tyuiu.VikolAS.Sprint3.Task1.V15.Lib\\Tyuiu.VikolAS.Sprint3.Task1.V15.Lib.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

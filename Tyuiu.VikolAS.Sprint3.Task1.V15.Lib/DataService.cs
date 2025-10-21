@@ -11,10 +11,9 @@ namespace Tyuiu.VikolAS.Sprint3.Task1.V15.Lib
             int i = startValue;
             while (i <= stopValue)
             {
-                p *= (Math.Pow(value, 2) * i);
+                p *= (Math.Pow(value, 2) * i + 1);
                 i++;
             }
-            p = p + 1;
             return Math.Round(p, 3);
         }
     }
