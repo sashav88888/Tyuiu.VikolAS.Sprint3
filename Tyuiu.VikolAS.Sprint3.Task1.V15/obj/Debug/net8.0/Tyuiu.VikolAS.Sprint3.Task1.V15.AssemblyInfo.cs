@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tyuiu.VikolAS.Sprint3.Task1.V15")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cea761562f78a7c9d867ec0254832c154fb1bf25")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d535038a87bb45fbf7b8842b08b98b34d641935")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tyuiu.VikolAS.Sprint3.Task1.V15")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tyuiu.VikolAS.Sprint3.Task1.V15")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
