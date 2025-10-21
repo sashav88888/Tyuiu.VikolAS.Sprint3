@@ -13,6 +13,7 @@ namespace Tyuiu.VikolAS.Sprint3.Task1.V15.Lib
             {
                 p *= (Math.Pow(value, 2) * i + 1);
                 i++;
+
             }
             return Math.Round(p, 3);
         }

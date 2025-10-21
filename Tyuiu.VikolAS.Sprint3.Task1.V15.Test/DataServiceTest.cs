@@ -23,6 +23,7 @@ namespace Tyuiu.VikolAS.Sprint3.Task1.V15.Test
                 expected *= (Math.Pow(x, 2) * i + 1);
                 i++;
             }
+
             expected = Math.Round(expected, 3);
 
             double result = ds.GetMultiplySeries(x, startValue, stopValue);
