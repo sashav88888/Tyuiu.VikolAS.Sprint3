@@ -12,6 +12,7 @@ namespace Tyuiu.VikolAS.Sprint3.Task0.V18.Test
 
 
 
+
             // Проверяем ожидаемое значение
             double expected = Math.Round(
                 Math.Pow(2 / (Math.Cos(1) + 0.5), 1) *
