@@ -1,4 +1,4 @@
-﻿using System;
+
 using tyuiu.cources.programming.interfaces.Sprint3;
 namespace Tyuiu.VikolAS.Sprint3.Task0.V18.Lib
 {
