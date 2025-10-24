@@ -1,4 +1,8 @@
+<<<<<<<< HEAD:Tyuiu.VikolAS.Sprint3.Task0.V18.Lib/Class1.cs
 ﻿
+========
+using System;
+>>>>>>>> c70f2debd41ec3e2715d6787916365337ed6e391:Tyuiu.VikolAS.Sprint3.Task0.V18.Lib/DataService.cs
 using tyuiu.cources.programming.interfaces.Sprint3;
 namespace Tyuiu.VikolAS.Sprint3.Task0.V18.Lib
 {
@@ -8,7 +12,10 @@ namespace Tyuiu.VikolAS.Sprint3.Task0.V18.Lib
         double GetMultiplySeries(int value, int startValue, int stopValue);
     }
 
+<<<<<<<< HEAD:Tyuiu.VikolAS.Sprint3.Task0.V18.Lib/Class1.cs
 
+========
+>>>>>>>> c70f2debd41ec3e2715d6787916365337ed6e391:Tyuiu.VikolAS.Sprint3.Task0.V18.Lib/DataService.cs
     public class DataService : ISprint3Task0V18
     {
         public double GetMultiplySeries(int value, int startValue, int stopValue)
